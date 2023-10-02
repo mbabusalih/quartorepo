@@ -1,0 +1,30 @@
+---
+title: "Misdirected by the Successes of the Others: The Case of Syria in the Arab Spring"
+author:
+ - name: "M. B. Abu Salih"
+   orcid: 0000-0002-3937-8663
+   affiliation: Altınbaş University
+
+date: 'Aug 16, 2022'
+
+abstract: |
+  The Arab Spring, as a democratic wave, contained democratic movements that succeeded in overthrowing their non-democratic regimes, such as Tunisia, Egypt, and Libya. In addition to other movements that failed to do so, such as Syria. This thesis investigates the impact of those successful movements on the Syrian case. We did that through comparing the events of the Syrian democratic movement with the events of the Tunisian, Egyptian and Libyan movements, to see if there is a relation, or an impact, between them. After that, we assessed the discovered impacts to get an overall evaluation of the impact of those movements on the case of Syria. We found many evidences show that the Syrian movement followed, or emulated, the other movements, in their approach, strategy and tactics. And because essential differences between Syria and those countries, that following, or emulation, did not lead to the same success, rather, it was one of the reasons for its failure. That gave us a conclusion that initiation of a democratic movement amid other movements, in time and space, will expose that movement to misdirecting impact that leads to its failure.
+
+toc: true
+---
+
+### Supervisor
+- Akif Bahadır KAYNAK, Assoc. Prof.
+
+### Jury Members
+- Akif Bahadır KAYNAK, Assoc. Prof., Altınbaş University
+- Eylem AKDENİZ GÖKER, Asst. Prof., Altınbaş University
+- Uğur Yasin ASAL, Assoc. Prof., Istanbul Ticaret University
+
+### Citation
+Abu Salih, M. B. (2022). Misdirected by the Successes of the Others: The Case of Syria in the Arab Spring. [Master's thesis, Altınbaş University]. Altınbaş University Institutional Repository. https://hdl.handle.net/20.500.12939/3372 
+
+
+### URI (includes full text)
+<https://hdl.handle.net/20.500.12939/3372>
+

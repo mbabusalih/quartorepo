@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: "Muhammad Badr ABU SALIH"
+  favicon: /assets/images/favicon-96.png
+  search: false
+  navbar:
+    title: "M.B. Abu Salih"
+    background: primary
+    search: false
+    right:
+      - href: index.qmd
+        text: Home
+#      - about.qmd
+      - href: ma-thesis.qmd
+        text: Thesis
+      - href: resources.qmd
+        text: Resources
+  page-footer:
+    background: light
+    border: true
+    center: 
+      - text: "© 2023 Muhammad Badr ABU SALIH"
+
+
+format:
+  html:
+    theme: theme.scss
+    mainfont: Source Sans Pro
+    page-layout: full
+
+
+execute:
+  freeze: auto
+
+
+
+
