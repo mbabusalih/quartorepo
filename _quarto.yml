@@ -29,13 +29,12 @@ website:
 format:
   html:
     theme: theme.scss
-    mainfont: Source Sans Pro
+#    mainfont: Source Sans Pro
     page-layout: full
 
 
 execute:
   freeze: auto
-
 
 
 
