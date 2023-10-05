@@ -1,5 +1,6 @@
 /*-- scss:defaults --*/
 
+
 // Fonts
 @import url('https://fonts.googleapis.com/css2?family=Gelasio:wght@400;500;600;700&display=swap');
 
@@ -12,13 +13,14 @@
 
 // Variables.
 
-$font-family-sans-serif: "Source Sans 3", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$font-family-sans-serif: "Source Sans Pro", "Source Sans 3", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
 $primary: #447099 !default;
 
 $nav-link-font-weight: 400 !default;
 
 $my-font-family-sans-serif: Gelasio, Georgia, Times, serif !default;
+
 
 // --------------------------------
 
@@ -33,6 +35,7 @@ div.quarto-about-trestles h1.title {
  color: #212529;
 }
 
+
 // Space above avatar
 div.quarto-about-trestles .about-entity .about-image {
  margin-top: 3em;
@@ -41,6 +44,7 @@ div.quarto-about-trestles .about-entity .about-image {
 h1, h2, h3, h4, h5, h6 {
   color: #004A77;
 }
+
 
 // --------------------------------
 
