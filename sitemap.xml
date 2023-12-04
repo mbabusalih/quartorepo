@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/mbabusalih/mbabusalih.github.io/about.html</loc>
-    <lastmod>2023-10-05T10:05:14.856Z</lastmod>
+    <loc>https://github.com/mbabusalih/mbabusalih.github.io/resources.html</loc>
+    <lastmod>2023-12-04T12:54:01.460Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/mbabusalih/mbabusalih.github.io/index.html</loc>
-    <lastmod>2023-10-05T10:05:14.104Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/mbabusalih/mbabusalih.github.io/resources.html</loc>
-    <lastmod>2023-10-05T10:05:13.364Z</lastmod>
+    <lastmod>2023-12-04T12:54:00.960Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/mbabusalih/mbabusalih.github.io/ma-thesis.html</loc>
-    <lastmod>2023-10-05T10:05:14.564Z</lastmod>
+    <lastmod>2023-12-04T12:54:00.368Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/mbabusalih/mbabusalih.github.io/about.html</loc>
+    <lastmod>2023-12-04T12:54:01.196Z</lastmod>
   </url>
 </urlset>
