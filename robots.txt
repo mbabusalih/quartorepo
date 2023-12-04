@@ -1,1 +1,1 @@
-Sitemap: https://github.com/mbabusalih/mbabusalih.github.io/sitemap.xml
+Sitemap: https://mbabusalih.github.io/sitemap.xml
