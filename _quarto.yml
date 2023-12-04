@@ -31,6 +31,8 @@ format:
     theme: theme.scss
 #    mainfont: Source Sans Pro
     page-layout: full
+    include-in-header:
+      - text: <meta name="google-site-verification" content="IsH7WWWy8e3yEqVgqZTDa41IrthkspiDjTShEE3wRg8" />
 
 
 execute:
