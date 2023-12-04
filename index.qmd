@@ -10,6 +10,8 @@ about:
   links:
     - text: "{{< fa brands x-twitter size=xl >}}"
       href: https://twitter.com/mbAbuSalih
+    - text: "{{< fa solid square size=xl >}}"
+      href: https://bsky.app/profile/mbabusalih.bsky.social
     - text: "{{< ai google-scholar size=xl >}}"
       href: https://scholar.google.com/citations?user=8W_qE5wAAAAJ
     - text: "{{< ai researchgate size=xl >}}"
