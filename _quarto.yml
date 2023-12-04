@@ -5,6 +5,8 @@ project:
 
 website:
   title: "Muhammad Badr ABU SALIH"
+  site-url: 'https://mbabusalih.github.io/'
+  site-path: '/'
   favicon: /assets/images/favicon-96.png
   search: false
   navbar:
