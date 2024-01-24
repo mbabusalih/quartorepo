@@ -25,6 +25,10 @@ toc: true
 Abu Salih, M. B. (2022). Misdirected by the Successes of the Others: The Case of Syria in the Arab Spring. [Master's thesis, Altınbaş University]. Altınbaş University Institutional Repository. https://hdl.handle.net/20.500.12939/3372 
 
 
-### URI (includes full text)
+### URI
 <https://hdl.handle.net/20.500.12939/3372>
+
+
+### Full Text
+[View PDF](/assets/files/mb-abusalih-ma-thesis-771108.pdf)
 
