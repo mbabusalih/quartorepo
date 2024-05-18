@@ -5,13 +5,21 @@ toc-depth: 3
 ---
 
 
-## Recommended Research Methods Books:
+## Recommended Books:
 
-### Democratization
+### Research Exploration
+
+- Gerring, J., & Seawright, J. (2022). *Finding Your Social Science Project: The Research Sandbox* (1st ed.). Cambridge University Press. https://doi.org/10.1017/9781009118620  
+[Details](https://doi.org/10.1017/9781009118620)
+
+
+### Research Methods
+
+#### Democratization
 - Coppedge, M. (2012). *Democratization and Research Methods* (1st ed.). Cambridge University Press. https://doi.org/10.1017/CBO9781139016179  
 [Details](https://doi.org/10.1017/CBO9781139016179)
 
-### Political Science
+#### Political Science
 
 - Johnson, J. B. (2020). *Political science research methods* (Ninth Edition). CQ Press, an imprint of SAGE Publications, Inc.
 Shoemaker, P. J., Tankard, J. W., & Lasorsa, D. L. (2004). How to build social science theories. Sage.  
@@ -20,13 +28,20 @@ Shoemaker, P. J., Tankard, J. W., & Lasorsa, D. L. (2004). How to build social s
 - Baglione, L. A. (2020). *Writing a research paper in political science: A practical guide to inquiry, structure, and methods* (Fourth Edition). CQ Press, an Imprint of SAGE Publications, Inc.  
 [Details](https://us.sagepub.com/en-us/nam/writing-a-research-paper-in-political-science/book249472)
 
-### Social Sciences
+#### Social Sciences
 
 - Shoemaker, P. J., Tankard, J. W., & Lasorsa, D. L. (2004). *How to build social science theories.* Sage.  
 [Details](https://us.sagepub.com/en-us/nam/how-to-build-social-science-theories/book225356)
 
 
-### General
+#### General
 
 - Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. T. (2016). *The Craft of Research, Fourth Edition.* University of Chicago Press. https://doi.org/10.7208/chicago/9780226239873.001.0001  
 [Details](https://doi.org/10.7208/chicago/9780226239873.001.0001)
+
+
+### Political Data Science
+
+- Urdinez, F., & Cruz, A. (2020). *R for Political Data Science: A Practical Guide* (1st ed.). Chapman and Hall/CRC. https://doi.org/10.1201/9781003010623  
+[Details](https://doi.org/10.1201/9781003010623)
+
