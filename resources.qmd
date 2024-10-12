@@ -7,13 +7,13 @@ toc-depth: 3
 
 ## Recommended Books:
 
-### Research Exploration
+### 1. Research Exploration
 
 - Gerring, J., & Seawright, J. (2022). *Finding Your Social Science Project: The Research Sandbox* (1st ed.). Cambridge University Press. https://doi.org/10.1017/9781009118620  
 [Details](https://doi.org/10.1017/9781009118620)
 
 
-### Research Methods
+### 2. Research Methods
 
 #### Democratization
 - Coppedge, M. (2012). *Democratization and Research Methods* (1st ed.). Cambridge University Press. https://doi.org/10.1017/CBO9781139016179  
@@ -40,8 +40,11 @@ Shoemaker, P. J., Tankard, J. W., & Lasorsa, D. L. (2004). How to build social s
 [Details](https://doi.org/10.7208/chicago/9780226239873.001.0001)
 
 
-### Political Data Science
+### 2. Political Data Science
 
 - Urdinez, F., & Cruz, A. (2020). *R for Political Data Science: A Practical Guide* (1st ed.). Chapman and Hall/CRC. https://doi.org/10.1201/9781003010623  
 [Details](https://doi.org/10.1201/9781003010623)
 
+
+- Monogan III, J. E. (2015). *Political Analysis Using R.* Springer International Publishing. https://doi.org/10.1007/978-3-319-23446-5  
+[Details](https://doi.org/10.1007/978-3-319-23446-5)
