@@ -40,7 +40,7 @@ Shoemaker, P. J., Tankard, J. W., & Lasorsa, D. L. (2004). How to build social s
 [Details](https://doi.org/10.7208/chicago/9780226239873.001.0001)
 
 
-### 2. Political Data Science
+### 3. Political Data Science
 
 - Urdinez, F., & Cruz, A. (2020). *R for Political Data Science: A Practical Guide* (1st ed.). Chapman and Hall/CRC. https://doi.org/10.1201/9781003010623  
 [Details](https://doi.org/10.1201/9781003010623)
