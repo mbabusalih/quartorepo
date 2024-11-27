@@ -1,7 +1,7 @@
 ---
 pagetitle: "Muhammad Badr ABU SALIH"
 title: "M.B. Abu Salih"
-image: /assets/images/mb-abusalih-photo.png
+image: /assets/images/mb-abusalih-photo-02.png
 toc: true
 about:
   template: trestles
