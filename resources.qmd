@@ -22,11 +22,14 @@ toc-depth: 3
 #### Political Science
 
 - Johnson, J. B. (2020). *Political science research methods* (Ninth Edition). CQ Press, an imprint of SAGE Publications, Inc.
-Shoemaker, P. J., Tankard, J. W., & Lasorsa, D. L. (2004). How to build social science theories. Sage.  
 [Details](https://us.sagepub.com/en-us/nam/political-science-research-methods/book257383)
 
 - Baglione, L. A. (2020). *Writing a research paper in political science: A practical guide to inquiry, structure, and methods* (Fourth Edition). CQ Press, an Imprint of SAGE Publications, Inc.  
 [Details](https://us.sagepub.com/en-us/nam/writing-a-research-paper-in-political-science/book249472)
+
+- Kachuyevski, A., & Samuel, L. M. (Eds.). (2018). *Doing Qualitative Research in Politics: Integrating Theory Building and Policy Relevance.* Springer International Publishing. https://doi.org/10.1007/978-3-319-72230-6  
+[Details](https://doi.org/10.1007/978-3-319-72230-6)
+
 
 #### Social Sciences
 
