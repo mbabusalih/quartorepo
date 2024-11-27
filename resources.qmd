@@ -21,7 +21,7 @@ toc-depth: 3
 
 #### Political Science
 
-- Johnson, J. B., Reynolds, H. T., & Mycoff, J. D. (2020). *Political science research methods* (Ninth Edition). CQ Press, an imprint of SAGE Publications, Inc.
+- Johnson, J. B., Reynolds, H. T., & Mycoff, J. D. (2020). *Political science research methods* (Ninth Edition). CQ Press, an imprint of SAGE Publications, Inc.  
 [Details](https://us.sagepub.com/en-us/nam/political-science-research-methods/book257383)
 
 - Baglione, L. A. (2020). *Writing a research paper in political science: A practical guide to inquiry, structure, and methods* (Fourth Edition). CQ Press, an Imprint of SAGE Publications, Inc.  
